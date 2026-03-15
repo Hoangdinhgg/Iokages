@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Architectures: iphoneos-arm64 iphoneos-arm
 Codename: ios
 Components: main
@@ -30,3 +33,10 @@ SHA512:
  73f738af22fa30ec095bc3b53890b1e584a045346b47cc4bb0a708e854f17a9bccafe7197b177ba5abdd178f9a7b895447ecd1f0bdd1928aaf0094755ec92272              202 Release
  d14ae45aab544ff84b0cad2502410a5fed278458ffebf4cf1c85051176f3f18a05ad65c5c290f5b0e8aaf7fe03a3f6e576948e4d1b3829e0139147a966e3a487              390 dists/stable/main/binary-iphoneos-arm64/Packages
  e23545f544454bb329c9ede72b1765ef66cebec72439168721c7bb585ab4870fc693799b39c4e12a91b6ee85e785cd34559176a98ac6054a7595c54b20e0a2ef              314 dists/stable/main/binary-iphoneos-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTKN1muHujhb1FuV1gYKGEqZ8wzgQUCabYyCgAKCRAYKGEqZ8wz
+gREyAQDrycl9DnkqianbSzOv0TKvMlVi5zk8DVGS9+6/b+MpvwD/VZbqglcfS9aS
+FeLsDa5BqBa4JthbcMIMe8JDhGDorAI=
+=vHuO
+-----END PGP SIGNATURE-----
